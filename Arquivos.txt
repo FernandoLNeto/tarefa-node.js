@@ -1,0 +1,8 @@
+1
+2
+3
+4 colher
+5 cadeira
+6 mesa
+garfo
+faca
